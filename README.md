@@ -1,0 +1,2 @@
+# server-configurations
+configuration server
